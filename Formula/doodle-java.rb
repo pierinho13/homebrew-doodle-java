@@ -10,6 +10,6 @@ class DoodleJava < Formula
   end
 
   test do
-    system "#{bin}/doodle-java", "--help"
+    system bin/"doodle-java", "--help"
   end
 end

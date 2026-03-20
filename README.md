@@ -1,18 +1,13 @@
-# Pierinho13 Doodle-java
+# Pierinho13 Java Helper
 
-## How do I install these formulae?
+## How do I install this formula?
 
-`brew install pierinho13/doodle-java/<formula>`
+`brew install pierinho13/java-helper/java-helper`
 
-Or `brew tap pierinho13/doodle-java` and then `brew install <formula>`.
+Or `brew tap pierinho13/java-helper` and then `brew install java-helper`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "pierinho13/doodle-java"
-brew "<formula>"
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+tap "pierinho13/java-helper"
+brew "java-helper"
